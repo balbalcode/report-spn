@@ -1,0 +1,45 @@
+* {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
+//Core files
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "init/color";
+@import "variables";
+@import "node_modules/bootstrap/scss/mixins";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@import "style/pages/spot.module";
+
+// Structure
+@import "style/structure/general.module";
+@import "style/structure/topbar.module";
+@import "style/structure/page-head.module";
+@import "style/structure/footer.module";
+@import "style/structure/right-sidebar.module";
+@import "style/structure/vertical.module";
+@import "style/structure/horizontal-nav.module";
+@import "style/structure/layouts.module";
+
+// Components
+@import "style/components/avatar.module";
+@import "style/components/helper.module";
+@import "style/components/buttons.module";
+@import "style/components/table.module";
+@import "style/components/forms.module";
+@import "style/components/badge.module";
+@import "style/components/preloader.module";
+@import "style/components/widgets.module";
+
+// Plugins
+@import "style/plugins/custom-scrollbar.module";
+@import "style/plugins/select2.module";
+@import "style/plugins/datepicker.module";
+@import "style/plugins/google-map.module";
+
+
+// other
+@import "style/style/custom-gutters.module";
+@import "style/style/color-library.module";

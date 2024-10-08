@@ -1,0 +1,165 @@
+
+.table {
+  th {
+    font-weight: $font-weight-bold;
+  }
+}
+
+.table-centered {
+  td, th {
+    vertical-align: middle !important;
+  }
+}
+
+.table-nowrap {
+  th, td {
+    white-space: nowrap;
+  }
+}
+
+.dataTables_length select {
+  margin: 0 10px;
+}
+
+.table-striped > tbody > tr:nth-child(even) > td,
+.table-striped > tbody > tr:nth-child(even) > th {
+  background: mix(white, #EAECF0, 90%) !important;
+  border-bottom: 1px solid $gray-300;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td,
+.table-striped > tbody > tr:nth-child(odd) > th {
+  background: white !important;
+  border-bottom: 1px solid $gray-300;
+}
+
+.table th, .table td {
+  vertical-align: middle !important;
+  padding: .75rem .5rem !important;
+}
+
+table.report-table {
+  border-collapse: collapse;
+  border-radius: 0.25rem !important;
+  overflow: hidden;
+}
+
+table.report-table > thead.thead-primary {
+  background: $primary !important;
+  color: #333;
+}
+
+table.report-table > thead.thead-primary > tr > th {
+  border: 1px solid #ececec !important;
+  vertical-align: middle;
+  text-align: center;
+}
+
+table.report-table > thead.thead-primary > tr > th.odd {
+  background: mix(white, $primary, 65%) !important;
+}
+
+table.report-table > thead.thead-primary > tr > th.even {
+  background: mix(white, $primary, 85%) !important;
+}
+
+table.report-table > tbody > tr {
+  border-bottom: 1px solid $gray-200;
+}
+
+table.report-table > tbody > tr > td {
+  text-align: center;
+}
+
+table.report-table > tfoot > tr {
+  text-align: center;
+  border-top: 2px solid #ececec;
+  background: mix(white, $primary, 70%) !important;
+}
+
+.table-freeze {
+  overflow-y: scroll
+}
+
+.table-freeze-x {
+  min-width: 1400px !important;
+}
+
+.thead-freeze {
+  //position: sticky;
+  top: 0;
+  background: white;
+  z-index: 9
+}
+
+.table-striped {
+  > tbody {
+    > tr.selected-row {
+      background-color: mix(white, $gray-500, 80%) !important;
+      > td {
+        background-color: mix(white, $gray-500, 80%) !important;
+      }
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  table.table-sticky-header {
+    position: relative;
+    max-height: 70vh;
+    overflow: auto;
+  }
+
+  .cell-sticky {
+    position: sticky;
+    background: #FFC348;
+  }
+
+  th.cell-sticky {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+table.table-sticky-header {
+  overflow-x: auto;
+}
+
+table.table-spn {
+  tbody tr, tr.table__content, tr {
+    height: 72px;
+
+    /* text-sm */
+    font-size: 14px;
+    line-height: 20px;
+  
+    /* font-normal */
+    font-weight: 400;
+
+    border-bottom: 1px #EAECF0 inset;
+
+    th, td {
+      // py-4 px-6
+      padding: 16px 24px;
+    }
+  }
+
+  thead tr, tr.table__header {
+    height: 44px;
+  
+    /* bg-gray-50 */
+    background-color: #F9FAFB;
+  
+    /* text-xs */
+    font-size: 12px;
+    line-height: 18px;
+  
+    /* font-medium */
+    font-weight: 500;
+
+    th, td {
+      // py-3 px-6
+      padding: 12px 24px;
+    }
+  }
+}

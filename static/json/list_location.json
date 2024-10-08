@@ -1,0 +1,2604 @@
+{
+  "data": [
+    {
+      "key": "KABUPATEN ACEH BARAT",
+      "lat": 4.4543,
+      "long": 96.1527
+    },
+    {
+      "key": "KABUPATEN ACEH BARAT DAYA",
+      "lat": 3.7963,
+      "long": 97.0068
+    },
+    {
+      "key": "KABUPATEN ACEH BESAR",
+      "lat": 5.4529,
+      "long": 95.4778
+    },
+    {
+      "key": "KABUPATEN ACEH JAYA",
+      "lat": 4.7874,
+      "long": 95.6458
+    },
+    {
+      "key": "KABUPATEN ACEH SELATAN",
+      "lat": 3.3115,
+      "long": 97.3517
+    },
+    {
+      "key": "KABUPATEN ACEH SINGKIL",
+      "lat": 2.3589,
+      "long": 97.8722
+    },
+    {
+      "key": "KABUPATEN ACEH TAMIANG",
+      "lat": 4.2329,
+      "long": 98.0029
+    },
+    {
+      "key": "KABUPATEN ACEH TENGAH",
+      "lat": 4.4483,
+      "long": 96.8351
+    },
+    {
+      "key": "KABUPATEN ACEH TENGGARA",
+      "lat": 3.3089,
+      "long": 97.6982
+    },
+    {
+      "key": "KABUPATEN ACEH TIMUR",
+      "lat": 4.5224,
+      "long": 97.6114
+    },
+    {
+      "key": "KABUPATEN ACEH UTARA",
+      "lat": 4.9786,
+      "long": 97.2221
+    },
+    {
+      "key": "KABUPATEN BENER MERIAH",
+      "lat": 4.7514,
+      "long": 96.9525
+    },
+    {
+      "key": "KABUPATEN BIREUEN",
+      "lat": 5.1086,
+      "long": 96.6638
+    },
+    {
+      "key": "KABUPATEN GAYO LUES",
+      "lat": 3.9552,
+      "long": 97.3517
+    },
+    {
+      "key": "KABUPATEN NAGAN RAYA",
+      "lat": 4.1248,
+      "long": 96.493
+    },
+    {
+      "key": "KABUPATEN PIDIE",
+      "lat": 5.0743,
+      "long": 95.941
+    },
+    {
+      "key": "KABUPATEN PIDIE JAYA",
+      "lat": 5.1548,
+      "long": 96.1951
+    },
+    {
+      "key": "KABUPATEN SIMEULUE",
+      "lat": 2.644,
+      "long": 96.0256
+    },
+    {
+      "key": "KOTA BANDA ACEH",
+      "lat": 5.5483,
+      "long": 95.3238
+    },
+    {
+      "key": "KOTA LANGSA",
+      "lat": 4.4725,
+      "long": 97.9756
+    },
+    {
+      "key": "KOTA LHOKSEUMAWE",
+      "lat": 5.1812,
+      "long": 97.1413
+    },
+    {
+      "key": "KOTA SABANG",
+      "lat": 5.8926,
+      "long": 95.3238
+    },
+    {
+      "key": "KOTA SUBULUSSALAM",
+      "lat": 2.7121,
+      "long": 97.9157
+    },
+    {
+      "key": "KABUPATEN ASAHAN",
+      "lat": 2.8175,
+      "long": 99.6341
+    },
+    {
+      "key": "KABUPATEN BATUBARA",
+      "lat": 3.1741,
+      "long": 99.5006
+    },
+    {
+      "key": "KABUPATEN DAIRI",
+      "lat": 2.8676,
+      "long": 98.2651
+    },
+    {
+      "key": "KABUPATEN DELI SERDANG",
+      "lat": 3.4202,
+      "long": 98.7041
+    },
+    {
+      "key": "KABUPATEN HUMBANG HASUNDUTAN",
+      "lat": 2.1989,
+      "long": 98.5721
+    },
+    {
+      "key": "KABUPATEN KARO",
+      "lat": 3.1053,
+      "long": 98.2651
+    },
+    {
+      "key": "KABUPATEN LABUHANBATU",
+      "lat": 2.344,
+      "long": 100.1703
+    },
+    {
+      "key": "KABUPATEN LABUHANBATU SELATAN",
+      "lat": 1.8799,
+      "long": 100.1703
+    },
+    {
+      "key": "KABUPATEN LABUHANBATU UTARA",
+      "lat": 2.3466,
+      "long": 99.8125
+    },
+    {
+      "key": "KABUPATEN LANGKAT",
+      "lat": 3.8654,
+      "long": 98.3088
+    },
+    {
+      "key": "KABUPATEN MANDAILING NATAL",
+      "lat": 0.7432,
+      "long": 99.3673
+    },
+    {
+      "key": "KABUPATEN NIAS",
+      "lat": 1.0869,
+      "long": 97.7417
+    },
+    {
+      "key": "KABUPATEN NIAS BARAT",
+      "lat": 1.0116,
+      "long": 97.4814
+    },
+    {
+      "key": "KABUPATEN NIAS SELATAN",
+      "lat": 0.7086,
+      "long": 97.8286
+    },
+    {
+      "key": "KABUPATEN NIAS UTARA",
+      "lat": 1.3166,
+      "long": 97.3949
+    },
+    {
+      "key": "KABUPATEN PADANG LAWAS",
+      "lat": 1.1187,
+      "long": 99.8125
+    },
+    {
+      "key": "KABUPATEN PADANG LAWAS UTARA",
+      "lat": 1.5759,
+      "long": 99.6341
+    },
+    {
+      "key": "KABUPATEN PAKPAK BHARAT",
+      "lat": 2.5135,
+      "long": 98.2213
+    },
+    {
+      "key": "KABUPATEN SAMOSIR",
+      "lat": 2.6274,
+      "long": 98.7922
+    },
+    {
+      "key": "KABUPATEN SERDANG BEDAGAI",
+      "lat": 3.3372,
+      "long": 99.0571
+    },
+    {
+      "key": "KABUPATEN SIMALUNGUN",
+      "lat": 2.9782,
+      "long": 99.2786
+    },
+    {
+      "key": "KABUPATEN TAPANULI SELATAN",
+      "lat": 1.5775,
+      "long": 99.2786
+    },
+    {
+      "key": "KABUPATEN TAPANULI TENGAH",
+      "lat": 1.8493,
+      "long": 98.7041
+    },
+    {
+      "key": "KABUPATEN TAPANULI UTARA",
+      "lat": 2.0405,
+      "long": 99.1013
+    },
+    {
+      "key": "KABUPATEN TOBA SAMOSIR",
+      "lat": 2.3502,
+      "long": 99.2786
+    },
+    {
+      "key": "KOTA BINJAI",
+      "lat": 3.6135,
+      "long": 98.5025
+    },
+    {
+      "key": "KOTA GUNUNGSITOLI",
+      "lat": 1.2805,
+      "long": 97.6147
+    },
+    {
+      "key": "KOTA MEDAN",
+      "lat": 3.5952,
+      "long": 98.6722
+    },
+    {
+      "key": "KOTA PADANGSIDEMPUAN",
+      "lat": 1.3722,
+      "long": 99.273
+    },
+    {
+      "key": "KOTA PEMATANGSIANTAR",
+      "lat": 2.97,
+      "long": 99.0682
+    },
+    {
+      "key": "KOTA SIBOLGA",
+      "lat": 1.7368,
+      "long": 98.7851
+    },
+    {
+      "key": "KOTA TANJUNGBALAI",
+      "lat": 2.9662,
+      "long": 99.7985
+    },
+    {
+      "key": "KOTA TEBING TINGGI",
+      "lat": 3.3263,
+      "long": 99.1567
+    },
+    {
+      "key": "KABUPATEN AGAM",
+      "lat": -0.2209,
+      "long": 100.1703
+    },
+    {
+      "key": "KABUPATEN DHARMASRAYA",
+      "lat": -1.1121,
+      "long": 101.6158
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN MENTAWAI",
+      "lat": -1.426,
+      "long": 98.9245
+    },
+    {
+      "key": "KABUPATEN LIMA PULUH KOTA",
+      "lat": 0.0734,
+      "long": 100.5296
+    },
+    {
+      "key": "KABUPATEN PADANG PARIAMAN",
+      "lat": -0.5547,
+      "long": 100.2152
+    },
+    {
+      "key": "KABUPATEN PASAMAN",
+      "lat": 0.2209,
+      "long": 100.1703
+    },
+    {
+      "key": "KABUPATEN PASAMAN BARAT",
+      "lat": 0.2213,
+      "long": 99.6341
+    },
+    {
+      "key": "KABUPATEN PESISIR SELATAN",
+      "lat": -1.7223,
+      "long": 100.8903
+    },
+    {
+      "key": "KABUPATEN SIJUNJUNG",
+      "lat": -0.6647,
+      "long": 101.0712
+    },
+    {
+      "key": "KABUPATEN SOLOK",
+      "lat": -0.9644,
+      "long": 100.8903
+    },
+    {
+      "key": "KABUPATEN SOLOK SELATAN",
+      "lat": -1.4157,
+      "long": 101.2524
+    },
+    {
+      "key": "KABUPATEN TANAH DATAR",
+      "lat": -0.4797,
+      "long": 100.5746
+    },
+    {
+      "key": "KOTA BUKITTINGGI",
+      "lat": -0.3039,
+      "long": 100.3835
+    },
+    {
+      "key": "KOTA PADANG",
+      "lat": -0.9471,
+      "long": 100.4172
+    },
+    {
+      "key": "KOTA PADANGPANJANG",
+      "lat": -0.4661,
+      "long": 100.3984
+    },
+    {
+      "key": "KOTA PARIAMAN",
+      "lat": -0.6257,
+      "long": 100.1233
+    },
+    {
+      "key": "KOTA PAYAKUMBUH",
+      "lat": -0.2298,
+      "long": 100.6309
+    },
+    {
+      "key": "KOTA SAWAHLUNTO",
+      "lat": -0.6841,
+      "long": 100.7323
+    },
+    {
+      "key": "KOTA SOLOK",
+      "lat": -0.7885,
+      "long": 100.655
+    },
+    {
+      "key": "KABUPATEN BENGKALIS",
+      "lat": 1.4139,
+      "long": 101.6158
+    },
+    {
+      "key": "KABUPATEN INDRAGIRI HILIR",
+      "lat": -0.1457,
+      "long": 102.9896
+    },
+    {
+      "key": "KABUPATEN INDRAGIRI HULU",
+      "lat": -0.7361,
+      "long": 102.2548
+    },
+    {
+      "key": "KABUPATEN KAMPAR",
+      "lat": 0.1467,
+      "long": 101.1617
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN MERANTI",
+      "lat": 0.9209,
+      "long": 102.6676
+    },
+    {
+      "key": "KABUPATEN KUANTAN SINGINGI",
+      "lat": -0.4412,
+      "long": 101.5248
+    },
+    {
+      "key": "KABUPATEN PELALAWAN",
+      "lat": 0.1461,
+      "long": 102.2548
+    },
+    {
+      "key": "KABUPATEN ROKAN HILIR",
+      "lat": 1.6464,
+      "long": 100.8
+    },
+    {
+      "key": "KABUPATEN ROKAN HULU",
+      "lat": 1.0411,
+      "long": 100.4397
+    },
+    {
+      "key": "KABUPATEN SIAK",
+      "lat": 0.8119,
+      "long": 101.798
+    },
+    {
+      "key": "KOTA DUMAI",
+      "lat": 1.6666,
+      "long": 101.4002
+    },
+    {
+      "key": "KOTA PEKANBARU",
+      "lat": 0.5071,
+      "long": 101.4478
+    },
+    {
+      "key": "KABUPATEN BINTAN",
+      "lat": 1.0619,
+      "long": 104.5189
+    },
+    {
+      "key": "KABUPATEN KARIMUN",
+      "lat": 0.7698,
+      "long": 103.4049
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN ANAMBAS",
+      "lat": 3.1055,
+      "long": 105.6537
+    },
+    {
+      "key": "KABUPATEN LINGGA",
+      "lat": -0.4726,
+      "long": 104.4258
+    },
+    {
+      "key": "KABUPATEN NATUNA",
+      "lat": 4,
+      "long": 108.25
+    },
+    {
+      "key": "KOTA BATAM",
+      "lat": 1.1301,
+      "long": 104.0529
+    },
+    {
+      "key": "KOTA TANJUNG PINANG",
+      "lat": 0.9186,
+      "long": 104.4665
+    },
+    {
+      "key": "PULAU TAMBELAN KABUPATEN BINTAN",
+      "lat": 1.1216,
+      "long": 107.3259
+    },
+    {
+      "key": "PEKAJANG KABUPATEN LINGGA",
+      "lat": -0.0752,
+      "long": 104.6305
+    },
+    {
+      "key": "PULAU SERASAN KABUPATEN NATUNA",
+      "lat": 2.5179,
+      "long": 109.0513
+    },
+    {
+      "key": "PULAU MIDAI KABUPATEN NATUNA",
+      "lat": 2.9979,
+      "long": 107.7755
+    },
+    {
+      "key": "PULAU LAUT KABUPATEN NATUNA",
+      "lat": 4.7103,
+      "long": 107.971
+    },
+    {
+      "key": "KABUPATEN BATANGHARI",
+      "lat": -1.7084,
+      "long": 103.0818
+    },
+    {
+      "key": "KABUPATEN BUNGO",
+      "lat": -1.6401,
+      "long": 101.8892
+    },
+    {
+      "key": "KABUPATEN KERINCI",
+      "lat": -1.872,
+      "long": 101.4339
+    },
+    {
+      "key": "KABUPATEN MERANGIN",
+      "lat": -2.1753,
+      "long": 101.9805
+    },
+    {
+      "key": "KABUPATEN MUARO JAMBI",
+      "lat": -1.5521,
+      "long": 103.8216
+    },
+    {
+      "key": "KABUPATEN SAROLANGUN",
+      "lat": -2.323,
+      "long": 102.7135
+    },
+    {
+      "key": "KABUPATEN TANJUNG JABUNG BARAT",
+      "lat": -1.1058,
+      "long": 103.0818
+    },
+    {
+      "key": "KABUPATEN TANJUNG JABUNG TIMUR",
+      "lat": -1.1024,
+      "long": 103.8216
+    },
+    {
+      "key": "KABUPATEN TEBO",
+      "lat": -1.2593,
+      "long": 102.3464
+    },
+    {
+      "key": "KOTA JAMBI",
+      "lat": -1.6101,
+      "long": 103.6131
+    },
+    {
+      "key": "KOTA SUNGAI PENUH",
+      "lat": -2.0634,
+      "long": 101.3947
+    },
+    {
+      "key": "KABUPATEN BENGKULU SELATAN",
+      "lat": -4.3248,
+      "long": 103.0357
+    },
+    {
+      "key": "KABUPATEN BENGKULU TENGAH",
+      "lat": -3.6962,
+      "long": 102.3922
+    },
+    {
+      "key": "KABUPATEN BENGKULU UTARA",
+      "lat": -3.2663,
+      "long": 101.9805
+    },
+    {
+      "key": "KABUPATEN KAUR",
+      "lat": -4.5216,
+      "long": 103.2663
+    },
+    {
+      "key": "KABUPATEN KEPAHIANG",
+      "lat": -3.613,
+      "long": 102.6676
+    },
+    {
+      "key": "KABUPATEN LEBONG",
+      "lat": -3.1455,
+      "long": 102.209
+    },
+    {
+      "key": "KABUPATEN MUKOMUKO",
+      "lat": -2.6449,
+      "long": 101.4339
+    },
+    {
+      "key": "KABUPATEN REJANG LEBONG",
+      "lat": -3.4548,
+      "long": 102.6676
+    },
+    {
+      "key": "KABUPATEN SELUMA",
+      "lat": -4.0499,
+      "long": 102.7135
+    },
+    {
+      "key": "KOTA BENGKULU",
+      "lat": -3.7928,
+      "long": 102.2608
+    },
+    {
+      "key": "KABUPATEN BANYUASIN",
+      "lat": -2.6096,
+      "long": 104.7521
+    },
+    {
+      "key": "KABUPATEN EMPAT LAWANG",
+      "lat": -3.7286,
+      "long": 102.8975
+    },
+    {
+      "key": "KABUPATEN LAHAT",
+      "lat": -3.8009,
+      "long": 103.3587
+    },
+    {
+      "key": "KABUPATEN MUARA ENIM",
+      "lat": -3.7114,
+      "long": 104.0072
+    },
+    {
+      "key": "KABUPATEN MUSI BANYUASIN",
+      "lat": -2.5442,
+      "long": 103.7289
+    },
+    {
+      "key": "KABUPATEN MUSI RAWAS",
+      "lat": -3.0957,
+      "long": 103.0818
+    },
+    {
+      "key": "KABUPATEN MUSI RAWAS UTARA",
+      "lat": -2.7878,
+      "long": 102.7135
+    },
+    {
+      "key": "KABUPATEN OGAN ILIR",
+      "lat": -3.4265,
+      "long": 104.6121
+    },
+    {
+      "key": "KABUPATEN OGAN KOMERING ILIR",
+      "lat": -3.456,
+      "long": 105.2195
+    },
+    {
+      "key": "KABUPATEN OGAN KOMERING ULU",
+      "lat": -4.0283,
+      "long": 104.0072
+    },
+    {
+      "key": "KABUPATEN OGAN KOMERING ULU SELATAN",
+      "lat": -4.6682,
+      "long": 104.0072
+    },
+    {
+      "key": "KABUPATEN OGAN KOMERING ULU TIMUR",
+      "lat": -3.8568,
+      "long": 104.7521
+    },
+    {
+      "key": "KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+      "lat": -3.2398,
+      "long": 104.0072
+    },
+    {
+      "key": "KOTA LUBUKLINGGAU",
+      "lat": -3.2996,
+      "long": 102.8572
+    },
+    {
+      "key": "KOTA PAGAR ALAM",
+      "lat": -4.042,
+      "long": 103.2279
+    },
+    {
+      "key": "KOTA PALEMBANG",
+      "lat": -2.9761,
+      "long": 104.7754
+    },
+    {
+      "key": "KOTA PRABUMULIH",
+      "lat": -3.4214,
+      "long": 104.2437
+    },
+    {
+      "key": "KABUPATEN BANGKA",
+      "lat": -1.8743,
+      "long": 105.923
+    },
+    {
+      "key": "KABUPATEN BANGKA BARAT",
+      "lat": -1.8405,
+      "long": 105.5005
+    },
+    {
+      "key": "KABUPATEN BANGKA SELATAN",
+      "lat": -2.7411,
+      "long": 106.4406
+    },
+    {
+      "key": "KABUPATEN BANGKA TENGAH",
+      "lat": -2.4008,
+      "long": 106.2051
+    },
+    {
+      "key": "KABUPATEN BELITUNG",
+      "lat": -2.7217,
+      "long": 107.7636
+    },
+    {
+      "key": "KABUPATEN BELITUNG TIMUR",
+      "lat": -2.8678,
+      "long": 108.1429
+    },
+    {
+      "key": "KOTA PANGKAL PINANG",
+      "lat": -2.1316,
+      "long": 106.1169
+    },
+    {
+      "key": "KABUPATEN LAMPUNG TENGAH",
+      "lat": -4.8008,
+      "long": 105.3131
+    },
+    {
+      "key": "KABUPATEN LAMPUNG UTARA",
+      "lat": -4.8134,
+      "long": 104.7521
+    },
+    {
+      "key": "KABUPATEN LAMPUNG SELATAN",
+      "lat": -5.5623,
+      "long": 105.5474
+    },
+    {
+      "key": "KABUPATEN LAMPUNG BARAT",
+      "lat": -5.1095,
+      "long": 104.1466
+    },
+    {
+      "key": "KABUPATEN LAMPUNG TIMUR",
+      "lat": -5.1135,
+      "long": 105.6882
+    },
+    {
+      "key": "KABUPATEN MESUJI",
+      "lat": -4.0045,
+      "long": 105.3131
+    },
+    {
+      "key": "KABUPATEN PESAWARAN",
+      "lat": -5.4932,
+      "long": 105.0791
+    },
+    {
+      "key": "KABUPATEN PESISIR BARAT",
+      "lat": -5.2928,
+      "long": 104.1234
+    },
+    {
+      "key": "KABUPATEN PRINGSEWU",
+      "lat": -5.3331,
+      "long": 104.9856
+    },
+    {
+      "key": "KABUPATEN TULANG BAWANG",
+      "lat": -4.3177,
+      "long": 105.5005
+    },
+    {
+      "key": "KABUPATEN TULANG BAWANG BARAT",
+      "lat": -4.5257,
+      "long": 105.0791
+    },
+    {
+      "key": "KABUPATEN TANGGAMUS",
+      "lat": -5.3027,
+      "long": 104.5655
+    },
+    {
+      "key": "KABUPATEN WAY KANAN",
+      "lat": -4.4964,
+      "long": 104.5655
+    },
+    {
+      "key": "KOTA BANDAR LAMPUNG",
+      "lat": -5.3971,
+      "long": 105.2668
+    },
+    {
+      "key": "KOTA METRO",
+      "lat": -5.1178,
+      "long": 105.3073
+    },
+    {
+      "key": "KABUPATEN LEBAK",
+      "lat": -6.5644,
+      "long": 106.2522
+    },
+    {
+      "key": "KABUPATEN PANDEGLANG",
+      "lat": -6.7483,
+      "long": 105.6882
+    },
+    {
+      "key": "KABUPATEN SERANG",
+      "lat": -6.1397,
+      "long": 106.0405
+    },
+    {
+      "key": "KABUPATEN TANGERANG",
+      "lat": -6.1872,
+      "long": 106.4877
+    },
+    {
+      "key": "KOTA CILEGON",
+      "lat": -6.0025,
+      "long": 106.0111
+    },
+    {
+      "key": "KOTA SERANG",
+      "lat": -6.1104,
+      "long": 106.164
+    },
+    {
+      "key": "KOTA TANGERANG",
+      "lat": -6.2024,
+      "long": 106.6527
+    },
+    {
+      "key": "KOTA TANGERANG SELATAN",
+      "lat": -6.2835,
+      "long": 106.7113
+    },
+    {
+      "key": "KABUPATEN BANDUNG",
+      "lat": -7.1341,
+      "long": 107.6215
+    },
+    {
+      "key": "KABUPATEN BANDUNG BARAT",
+      "lat": -6.8652,
+      "long": 107.492
+    },
+    {
+      "key": "KABUPATEN BEKASI",
+      "lat": -6.2474,
+      "long": 107.1485
+    },
+    {
+      "key": "KABUPATEN BOGOR",
+      "lat": -6.5518,
+      "long": 106.6291
+    },
+    {
+      "key": "KABUPATEN CIAMIS",
+      "lat": -7.3321,
+      "long": 108.3493
+    },
+    {
+      "key": "KABUPATEN CIANJUR",
+      "lat": -7.358,
+      "long": 107.1957
+    },
+    {
+      "key": "KABUPATEN CIREBON",
+      "lat": -6.6899,
+      "long": 108.4751
+    },
+    {
+      "key": "KABUPATEN GARUT",
+      "lat": -7.5012,
+      "long": 107.7636
+    },
+    {
+      "key": "KABUPATEN INDRAMAYU",
+      "lat": -6.3373,
+      "long": 108.3258
+    },
+    {
+      "key": "KABUPATEN KARAWANG",
+      "lat": -6.3227,
+      "long": 107.3376
+    },
+    {
+      "key": "KABUPATEN KUNINGAN",
+      "lat": -7.0138,
+      "long": 108.5701
+    },
+    {
+      "key": "KABUPATEN MAJALENGKA",
+      "lat": -6.7791,
+      "long": 108.2852
+    },
+    {
+      "key": "KABUPATEN PANGANDARAN",
+      "lat": -7.6151,
+      "long": 108.4988
+    },
+    {
+      "key": "KABUPATEN PURWAKARTA",
+      "lat": -6.5649,
+      "long": 107.4322
+    },
+    {
+      "key": "KABUPATEN SUBANG",
+      "lat": -6.3488,
+      "long": 107.7636
+    },
+    {
+      "key": "KABUPATEN SUKABUMI",
+      "lat": -6.8649,
+      "long": 106.9536
+    },
+    {
+      "key": "KABUPATEN SUMEDANG",
+      "lat": -6.8329,
+      "long": 107.9532
+    },
+    {
+      "key": "KABUPATEN TASIKMALAYA",
+      "lat": -7.6513,
+      "long": 108.1429
+    },
+    {
+      "key": "KOTA BANDUNG",
+      "lat": -6.9175,
+      "long": 107.6191
+    },
+    {
+      "key": "KOTA BANJAR",
+      "lat": -7.3707,
+      "long": 108.5342
+    },
+    {
+      "key": "KOTA BEKASI",
+      "lat": -6.2383,
+      "long": 106.9756
+    },
+    {
+      "key": "KOTA BOGOR",
+      "lat": -6.5971,
+      "long": 106.806
+    },
+    {
+      "key": "KOTA CIMAHI",
+      "lat": -6.8841,
+      "long": 107.5413
+    },
+    {
+      "key": "KOTA CIREBON",
+      "lat": -6.732,
+      "long": 108.5523
+    },
+    {
+      "key": "KOTA DEPOK",
+      "lat": -6.4025,
+      "long": 106.7942
+    },
+    {
+      "key": "KOTA SUKABUMI",
+      "lat": -6.9277,
+      "long": 106.93
+    },
+    {
+      "key": "KOTA TASIKMALAYA",
+      "lat": -7.3506,
+      "long": 108.2172
+    },
+    {
+      "key": "JAKARTA TIMUR",
+      "lat": -6.1751,
+      "long": 106.865
+    },
+    {
+      "key": "JAKARTA BARAT",
+      "lat": -6.1973896,
+      "long": 106.7644224
+    },
+    {
+      "key": "JAKARTA PUSAT",
+      "lat": -6.1753871,
+      "long": 106.8249588
+    },
+    {
+      "key": "JAKARTA SELATAN",
+      "lat": -6.2839,
+      "long": 106.731
+    },
+    {
+      "key": "JAKARTA UTARA",
+      "lat": -6.1357,
+      "long": 106.771
+    },
+    {
+      "key": "KABUPATEN ADMINISTRASI KEPULAUAN SERIBU",
+      "lat": -5.6122,
+      "long": 106.617
+    },
+    {
+      "key": "KABUPATEN BANJARNEGARA",
+      "lat": -7.3794,
+      "long": 109.6163
+    },
+    {
+      "key": "KABUPATEN BANYUMAS",
+      "lat": -7.4832,
+      "long": 109.1404
+    },
+    {
+      "key": "KABUPATEN BATANG",
+      "lat": -7.0392,
+      "long": 109.9021
+    },
+    {
+      "key": "KABUPATEN BLORA",
+      "lat": -7.0122,
+      "long": 111.3799
+    },
+    {
+      "key": "KABUPATEN BOYOLALI",
+      "lat": -7.4318,
+      "long": 110.6884
+    },
+    {
+      "key": "KABUPATEN BREBES",
+      "lat": -6.9592,
+      "long": 108.9027
+    },
+    {
+      "key": "KABUPATEN CILACAP",
+      "lat": -7.6178,
+      "long": 108.9027
+    },
+    {
+      "key": "KABUPATEN DEMAK",
+      "lat": -6.9239,
+      "long": 110.6646
+    },
+    {
+      "key": "KABUPATEN GROBOGAN",
+      "lat": -7.1542,
+      "long": 110.9507
+    },
+    {
+      "key": "KABUPATEN JEPARA",
+      "lat": -6.5827,
+      "long": 110.6787
+    },
+    {
+      "key": "KABUPATEN KARANGANYAR",
+      "lat": -7.6387,
+      "long": 111.046
+    },
+    {
+      "key": "KABUPATEN KEBUMEN",
+      "lat": -7.6681,
+      "long": 109.6525
+    },
+    {
+      "key": "KABUPATEN KENDAL",
+      "lat": -7.0265,
+      "long": 110.1879
+    },
+    {
+      "key": "KABUPATEN KLATEN",
+      "lat": -7.6579,
+      "long": 110.6646
+    },
+    {
+      "key": "KABUPATEN KUDUS",
+      "lat": -6.7726,
+      "long": 110.8791
+    },
+    {
+      "key": "KABUPATEN MAGELANG",
+      "lat": -7.4305,
+      "long": 110.2832
+    },
+    {
+      "key": "KABUPATEN PATI",
+      "lat": -6.745,
+      "long": 111.046
+    },
+    {
+      "key": "KABUPATEN PEKALONGAN",
+      "lat": -7.0517,
+      "long": 109.6163
+    },
+    {
+      "key": "KABUPATEN PEMALANG",
+      "lat": -7.0599,
+      "long": 109.4259
+    },
+    {
+      "key": "KABUPATEN PURBALINGGA",
+      "lat": -7.3059,
+      "long": 109.4259
+    },
+    {
+      "key": "KABUPATEN PURWOREJO",
+      "lat": -7.6965,
+      "long": 109.9989
+    },
+    {
+      "key": "KABUPATEN REMBANG",
+      "lat": -6.8082,
+      "long": 111.4276
+    },
+    {
+      "key": "KABUPATEN SEMARANG",
+      "lat": -7.1765,
+      "long": 110.4739
+    },
+    {
+      "key": "KABUPATEN SRAGEN",
+      "lat": -7.4303,
+      "long": 111.0092
+    },
+    {
+      "key": "KABUPATEN SUKOHARJO",
+      "lat": -7.6484,
+      "long": 110.8553
+    },
+    {
+      "key": "KABUPATEN TEGAL",
+      "lat": -6.8588,
+      "long": 109.1048
+    },
+    {
+      "key": "KABUPATEN TEMANGGUNG",
+      "lat": -7.2749,
+      "long": 110.0892
+    },
+    {
+      "key": "KABUPATEN WONOGIRI",
+      "lat": -7.8846,
+      "long": 111.046
+    },
+    {
+      "key": "KABUPATEN WONOSOBO",
+      "lat": -7.3632,
+      "long": 109.9002
+    },
+    {
+      "key": "KOTA MAGELANG",
+      "lat": -7.4797,
+      "long": 110.2177
+    },
+    {
+      "key": "KOTA PEKALONGAN",
+      "lat": -6.8898,
+      "long": 109.6746
+    },
+    {
+      "key": "KOTA SALATIGA",
+      "lat": -7.3305,
+      "long": 110.5084
+    },
+    {
+      "key": "KOTA SEMARANG",
+      "lat": -7.0051,
+      "long": 110.4381
+    },
+    {
+      "key": "KOTA SURAKARTA",
+      "lat": -7.5755,
+      "long": 110.8243
+    },
+    {
+      "key": "KOTA TEGAL",
+      "lat": -6.8797,
+      "long": 109.1256
+    },
+    {
+      "key": "KABUPATEN BANTUL",
+      "lat": -7.919,
+      "long": 110.3785
+    },
+    {
+      "key": "KABUPATEN GUNUNGKIDUL",
+      "lat": -8.0305,
+      "long": 110.6169
+    },
+    {
+      "key": "KABUPATEN KULON PROGO",
+      "lat": -7.8267,
+      "long": 110.1641
+    },
+    {
+      "key": "KABUPATEN SLEMAN",
+      "lat": -7.7325,
+      "long": 110.4024
+    },
+    {
+      "key": "KOTA YOGYAKARTA",
+      "lat": -7.7956,
+      "long": 110.3695
+    },
+    {
+      "key": "KABUPATEN BANGKALAN",
+      "lat": -7.0384,
+      "long": 112.9137
+    },
+    {
+      "key": "KABUPATEN BANYUWANGI",
+      "lat": -8.2191,
+      "long": 114.3691
+    },
+    {
+      "key": "KABUPATEN BLITAR",
+      "lat": -8.0955,
+      "long": 112.1609
+    },
+    {
+      "key": "KABUPATEN BOJONEGORO",
+      "lat": -7.3175,
+      "long": 111.7615
+    },
+    {
+      "key": "KABUPATEN BONDOWOSO",
+      "lat": -7.9674,
+      "long": 113.9061
+    },
+    {
+      "key": "KABUPATEN GRESIK",
+      "lat": -7.155,
+      "long": 112.5722
+    },
+    {
+      "key": "KABUPATEN JEMBER",
+      "lat": -8.1845,
+      "long": 113.6681
+    },
+    {
+      "key": "KABUPATEN JOMBANG",
+      "lat": -7.5741,
+      "long": 112.2861
+    },
+    {
+      "key": "KABUPATEN KEDIRI",
+      "lat": -7.8232,
+      "long": 112.1907
+    },
+    {
+      "key": "KABUPATEN LAMONGAN",
+      "lat": -7.1269,
+      "long": 112.3338
+    },
+    {
+      "key": "KABUPATEN LUMAJANG",
+      "lat": -8.0944,
+      "long": 113.1442
+    },
+    {
+      "key": "KABUPATEN MADIUN",
+      "lat": -7.6093,
+      "long": 111.6184
+    },
+    {
+      "key": "KABUPATEN MAGETAN",
+      "lat": -7.6433,
+      "long": 111.356
+    },
+    {
+      "key": "KABUPATEN MALANG",
+      "lat": -8.2422,
+      "long": 112.7152
+    },
+    {
+      "key": "KABUPATEN MOJOKERTO",
+      "lat": -7.4699,
+      "long": 112.4351
+    },
+    {
+      "key": "KABUPATEN NGANJUK",
+      "lat": -7.5944,
+      "long": 111.9046
+    },
+    {
+      "key": "KABUPATEN NGAWI",
+      "lat": -7.461,
+      "long": 111.3322
+    },
+    {
+      "key": "KABUPATEN PACITAN",
+      "lat": -8.1263,
+      "long": 111.1414
+    },
+    {
+      "key": "KABUPATEN PAMEKASAN",
+      "lat": -7.1051,
+      "long": 113.5252
+    },
+    {
+      "key": "KABUPATEN PASURUAN",
+      "lat": -7.786,
+      "long": 112.8582
+    },
+    {
+      "key": "KABUPATEN PONOROGO",
+      "lat": -7.8651,
+      "long": 111.4696
+    },
+    {
+      "key": "KABUPATEN PROBOLINGGO",
+      "lat": -7.8718,
+      "long": 113.4776
+    },
+    {
+      "key": "KABUPATEN SAMPANG",
+      "lat": -7.0402,
+      "long": 113.2394
+    },
+    {
+      "key": "KABUPATEN SIDOARJO",
+      "lat": -7.4726,
+      "long": 112.6675
+    },
+    {
+      "key": "KABUPATEN SITUBONDO",
+      "lat": -7.7889,
+      "long": 114.1915
+    },
+    {
+      "key": "KABUPATEN SUMENEP",
+      "lat": -6.9254,
+      "long": 113.9061
+    },
+    {
+      "key": "KABUPATEN TRENGGALEK",
+      "lat": -8.1824,
+      "long": 111.6184
+    },
+    {
+      "key": "KABUPATEN TUBAN",
+      "lat": -6.8955,
+      "long": 112.0298
+    },
+    {
+      "key": "KABUPATEN TULUNGAGUNG",
+      "lat": -8.0912,
+      "long": 111.9642
+    },
+    {
+      "key": "KOTA BATU",
+      "lat": -7.8831,
+      "long": 112.5334
+    },
+    {
+      "key": "KOTA BLITAR",
+      "lat": -8.0955,
+      "long": 112.1609
+    },
+    {
+      "key": "KOTA KEDIRI",
+      "lat": -7.848,
+      "long": 112.0178
+    },
+    {
+      "key": "KOTA MADIUN",
+      "lat": -7.6311,
+      "long": 111.53
+    },
+    {
+      "key": "KOTA MALANG",
+      "lat": -7.9666,
+      "long": 112.6326
+    },
+    {
+      "key": "KOTA MOJOKERTO",
+      "lat": -7.4705,
+      "long": 112.4401
+    },
+    {
+      "key": "KOTA PASURUAN",
+      "lat": -7.6469,
+      "long": 112.8999
+    },
+    {
+      "key": "KOTA PROBOLINGGO",
+      "lat": -7.7764,
+      "long": 113.2037
+    },
+    {
+      "key": "KOTA SURABAYA",
+      "lat": -7.2575,
+      "long": 112.7521
+    },
+    {
+      "key": "KABUPATEN BADUNG",
+      "lat": -8.5819,
+      "long": 115.1771
+    },
+    {
+      "key": "KABUPATEN BANGLI",
+      "lat": -8.2976,
+      "long": 115.3549
+    },
+    {
+      "key": "KABUPATEN BULELENG",
+      "lat": -8.2239,
+      "long": 114.9517
+    },
+    {
+      "key": "KABUPATEN GIANYAR",
+      "lat": -8.4248,
+      "long": 115.2601
+    },
+    {
+      "key": "KABUPATEN JEMBRANA",
+      "lat": -8.3233,
+      "long": 114.6668
+    },
+    {
+      "key": "KABUPATEN KARANGASEM",
+      "lat": -8.3466,
+      "long": 115.5207
+    },
+    {
+      "key": "KABUPATEN KLUNGKUNG",
+      "lat": -8.7278,
+      "long": 115.5444
+    },
+    {
+      "key": "KABUPATEN TABANAN",
+      "lat": -8.4596,
+      "long": 115.0466
+    },
+    {
+      "key": "KOTA DENPASAR",
+      "lat": -8.6705,
+      "long": 115.2126
+    },
+    {
+      "key": "KABUPATEN BIMA",
+      "lat": -8.4354,
+      "long": 118.6265
+    },
+    {
+      "key": "KABUPATEN DOMPU",
+      "lat": -8.5364,
+      "long": 118.3462
+    },
+    {
+      "key": "KABUPATEN LOMBOK BARAT",
+      "lat": -8.6465,
+      "long": 116.1123
+    },
+    {
+      "key": "KABUPATEN LOMBOK TENGAH",
+      "lat": -8.6946,
+      "long": 116.2777
+    },
+    {
+      "key": "KABUPATEN LOMBOK TIMUR",
+      "lat": -8.5134,
+      "long": 116.561
+    },
+    {
+      "key": "KABUPATEN LOMBOK UTARA",
+      "lat": -8.3739,
+      "long": 116.2777
+    },
+    {
+      "key": "KABUPATEN SUMBAWA",
+      "lat": -8.6529,
+      "long": 117.3616
+    },
+    {
+      "key": "KABUPATEN SUMBAWA BARAT",
+      "lat": -8.9293,
+      "long": 116.891
+    },
+    {
+      "key": "KOTA BIMA",
+      "lat": -8.4643,
+      "long": 118.7449
+    },
+    {
+      "key": "KOTA MATARAM",
+      "lat": -8.577,
+      "long": 116.1005
+    },
+    {
+      "key": "KABUPATEN ALOR",
+      "lat": -8.2928,
+      "long": 124.5528
+    },
+    {
+      "key": "KABUPATEN BELU",
+      "lat": -9.1539,
+      "long": 124.9066
+    },
+    {
+      "key": "KABUPATEN ENDE",
+      "lat": -8.6763,
+      "long": 121.7195
+    },
+    {
+      "key": "KABUPATEN FLORES TIMUR",
+      "lat": -8.3131,
+      "long": 122.9663
+    },
+    {
+      "key": "KABUPATEN KUPANG",
+      "lat": -9.9906,
+      "long": 123.8858
+    },
+    {
+      "key": "KABUPATEN LEMBATA",
+      "lat": -8.4719,
+      "long": 123.4832
+    },
+    {
+      "key": "KABUPATEN MALAKA",
+      "lat": -9.5309,
+      "long": 124.9066
+    },
+    {
+      "key": "KABUPATEN MANGGARAI",
+      "lat": -8.6797,
+      "long": 120.3897
+    },
+    {
+      "key": "KABUPATEN MANGGARAI BARAT",
+      "lat": -8.6688,
+      "long": 120.0665
+    },
+    {
+      "key": "KABUPATEN MANGGARAI TIMUR",
+      "lat": -8.6207,
+      "long": 120.62
+    },
+    {
+      "key": "KABUPATEN NGADA",
+      "lat": -8.743,
+      "long": 120.9876
+    },
+    {
+      "key": "KABUPATEN NAGEKEO",
+      "lat": -8.6754,
+      "long": 121.3084
+    },
+    {
+      "key": "KABUPATEN ROTE NDAO",
+      "lat": -10.7386,
+      "long": 123.1239
+    },
+    {
+      "key": "KABUPATEN SABU RAIJUA",
+      "lat": -10.5541,
+      "long": 121.8335
+    },
+    {
+      "key": "KABUPATEN SIKKA",
+      "lat": -8.6766,
+      "long": 122.1292
+    },
+    {
+      "key": "KABUPATEN SUMBA BARAT",
+      "lat": -9.6548,
+      "long": 119.3947
+    },
+    {
+      "key": "KABUPATEN SUMBA BARAT DAYA",
+      "lat": -9.5391,
+      "long": 119.1391
+    },
+    {
+      "key": "KABUPATEN SUMBA TENGAH",
+      "lat": -9.4879,
+      "long": 119.6963
+    },
+    {
+      "key": "KABUPATEN SUMBA TIMUR",
+      "lat": -9.9802,
+      "long": 120.3436
+    },
+    {
+      "key": "KABUPATEN TIMOR TENGAH SELATAN",
+      "lat": -9.7763,
+      "long": 124.4198
+    },
+    {
+      "key": "KABUPATEN TIMOR TENGAH UTARA",
+      "lat": -9.4523,
+      "long": 124.5971
+    },
+    {
+      "key": "KOTA KUPANG",
+      "lat": -10.1772,
+      "long": 123.607
+    },
+    {
+      "key": "KABUPATEN BENGKAYANG",
+      "lat": 1.0691,
+      "long": 109.6639
+    },
+    {
+      "key": "KABUPATEN KAPUAS HULU",
+      "lat": 0.8337,
+      "long": 113.0012
+    },
+    {
+      "key": "KABUPATEN KAYONG UTARA",
+      "lat": -0.9226,
+      "long": 110.045
+    },
+    {
+      "key": "KABUPATEN KETAPANG",
+      "lat": -1.5698,
+      "long": 110.5215
+    },
+    {
+      "key": "KABUPATEN KUBU RAYA",
+      "lat": -0.3534,
+      "long": 109.4735
+    },
+    {
+      "key": "KABUPATEN LANDAK",
+      "lat": 0.4237,
+      "long": 109.7592
+    },
+    {
+      "key": "KABUPATEN MELAWI",
+      "lat": -0.7001,
+      "long": 111.6661
+    },
+    {
+      "key": "KABUPATEN MEMPAWAH",
+      "lat": 0.3897,
+      "long": 109.1404
+    },
+    {
+      "key": "KABUPATEN SAMBAS",
+      "lat": 1.3625,
+      "long": 109.2832
+    },
+    {
+      "key": "KABUPATEN SANGGAU",
+      "lat": 0.14,
+      "long": 110.5215
+    },
+    {
+      "key": "KABUPATEN SEKADAU",
+      "lat": -0.0697,
+      "long": 110.9984
+    },
+    {
+      "key": "KABUPATEN SINTANG",
+      "lat": -0.1378,
+      "long": 112.8106
+    },
+    {
+      "key": "KOTA PONTIANAK",
+      "lat": -0.0263,
+      "long": 109.3425
+    },
+    {
+      "key": "KOTA SINGKAWANG",
+      "lat": 0.906,
+      "long": 108.9872
+    },
+    {
+      "key": "KABUPATEN BALANGAN",
+      "lat": -2.326,
+      "long": 115.6155
+    },
+    {
+      "key": "KABUPATEN BANJAR",
+      "lat": -3.32,
+      "long": 114.9991
+    },
+    {
+      "key": "KABUPATEN BARITO KUALA",
+      "lat": -3.0715,
+      "long": 114.6668
+    },
+    {
+      "key": "KABUPATEN HULU SUNGAI SELATAN",
+      "lat": -2.7663,
+      "long": 115.2363
+    },
+    {
+      "key": "KABUPATEN HULU SUNGAI TENGAH",
+      "lat": -2.6153,
+      "long": 115.5207
+    },
+    {
+      "key": "KABUPATEN HULU SUNGAI UTARA",
+      "lat": -2.4421,
+      "long": 115.1889
+    },
+    {
+      "key": "KABUPATEN KOTABARU",
+      "lat": -3.003,
+      "long": 115.9468
+    },
+    {
+      "key": "KABUPATEN TABALONG",
+      "lat": -1.8643,
+      "long": 115.5681
+    },
+    {
+      "key": "KABUPATEN TANAH BUMBU",
+      "lat": -3.4512,
+      "long": 115.5681
+    },
+    {
+      "key": "KABUPATEN TANAH LAUT",
+      "lat": -3.7694,
+      "long": 114.8093
+    },
+    {
+      "key": "KABUPATEN TAPIN",
+      "lat": -2.9161,
+      "long": 115.0466
+    },
+    {
+      "key": "KOTA BANJARBARU",
+      "lat": -3.4572,
+      "long": 114.8103
+    },
+    {
+      "key": "KOTA BANJARMASIN",
+      "lat": -3.3186,
+      "long": 114.5944
+    },
+    {
+      "key": "KABUPATEN BARITO SELATAN",
+      "lat": -1.8759,
+      "long": 114.8093
+    },
+    {
+      "key": "KABUPATEN BARITO TIMUR",
+      "lat": -2.0124,
+      "long": 115.1889
+    },
+    {
+      "key": "KABUPATEN BARITO UTARA",
+      "lat": -0.9587,
+      "long": 115.094
+    },
+    {
+      "key": "KABUPATEN GUNUNG MAS",
+      "lat": -1.2522,
+      "long": 113.5729
+    },
+    {
+      "key": "KABUPATEN KAPUAS",
+      "lat": -1.8116,
+      "long": 114.3341
+    },
+    {
+      "key": "KABUPATEN KATINGAN",
+      "lat": -0.9758,
+      "long": 112.8106
+    },
+    {
+      "key": "KABUPATEN KOTAWARINGIN BARAT",
+      "lat": -2.5063,
+      "long": 111.7615
+    },
+    {
+      "key": "KABUPATEN KOTAWARINGIN TIMUR",
+      "lat": -2.1225,
+      "long": 112.8106
+    },
+    {
+      "key": "KABUPATEN LAMANDAU",
+      "lat": -1.8526,
+      "long": 111.2845
+    },
+    {
+      "key": "KABUPATEN MURUNG RAYA",
+      "lat": -0.1362,
+      "long": 114.3341
+    },
+    {
+      "key": "KABUPATEN PULANG PISAU",
+      "lat": -2.685,
+      "long": 113.9536
+    },
+    {
+      "key": "KABUPATEN SUKAMARA",
+      "lat": -2.6268,
+      "long": 111.2368
+    },
+    {
+      "key": "KABUPATEN SERUYAN",
+      "lat": -3.0123,
+      "long": 112.4291
+    },
+    {
+      "key": "KOTA PALANGKARAYA",
+      "lat": -2.2161,
+      "long": 113.914
+    },
+    {
+      "key": "KABUPATEN BERAU",
+      "lat": 2.0451,
+      "long": 117.3616
+    },
+    {
+      "key": "KABUPATEN KUTAI BARAT",
+      "lat": -0.4052,
+      "long": 115.8522
+    },
+    {
+      "key": "KABUPATEN KUTAI KARTANEGARA",
+      "lat": -0.1337,
+      "long": 116.6082
+    },
+    {
+      "key": "KABUPATEN KUTAI TIMUR",
+      "lat": 0.9434,
+      "long": 116.9852
+    },
+    {
+      "key": "KABUPATEN MAHAKAM ULU",
+      "lat": 0.9617,
+      "long": 114.7143
+    },
+    {
+      "key": "KABUPATEN PASER",
+      "lat": -1.7175,
+      "long": 115.9468
+    },
+    {
+      "key": "KABUPATEN PENAJAM PASER UTARA",
+      "lat": -1.2917,
+      "long": 116.5138
+    },
+    {
+      "key": "KOTA BALIKPAPAN",
+      "lat": -1.2379,
+      "long": 116.8529
+    },
+    {
+      "key": "KOTA BONTANG",
+      "lat": 0.1209,
+      "long": 117.48
+    },
+    {
+      "key": "KOTA SAMARINDA",
+      "lat": -0.4948,
+      "long": 117.1436
+    },
+    {
+      "key": "KABUPATEN BULUNGAN",
+      "lat": 2.9042,
+      "long": 116.9852
+    },
+    {
+      "key": "KABUPATEN MALINAU",
+      "lat": 3.0731,
+      "long": 116.0414
+    },
+    {
+      "key": "KABUPATEN NUNUKAN",
+      "lat": 4.081,
+      "long": 116.6082
+    },
+    {
+      "key": "KABUPATEN TANA TIDUNG",
+      "lat": 3.5519,
+      "long": 117.0794
+    },
+    {
+      "key": "KOTA TARAKAN",
+      "lat": 3.3274,
+      "long": 117.5785
+    },
+    {
+      "key": "KABUPATEN BOALEMO",
+      "lat": 0.7013,
+      "long": 122.2654
+    },
+    {
+      "key": "KABUPATEN BONE BOLANGO",
+      "lat": 0.5658,
+      "long": 123.3486
+    },
+    {
+      "key": "KABUPATEN GORONTALO",
+      "lat": 0.5693,
+      "long": 122.8084
+    },
+    {
+      "key": "KABUPATEN GORONTALO UTARA",
+      "lat": 0.9253,
+      "long": 122.492
+    },
+    {
+      "key": "KABUPATEN POHUWATO",
+      "lat": 0.7055,
+      "long": 121.7195
+    },
+    {
+      "key": "KOTA GORONTALO",
+      "lat": 0.5435,
+      "long": 123.0568
+    },
+    {
+      "key": "KABUPATEN BANTAENG",
+      "lat": -5.5169,
+      "long": 120.0203
+    },
+    {
+      "key": "KABUPATEN BARRU",
+      "lat": -4.4364,
+      "long": 119.6499
+    },
+    {
+      "key": "KABUPATEN BONE",
+      "lat": -4.7443,
+      "long": 120.0665
+    },
+    {
+      "key": "KABUPATEN BULUKUMBA",
+      "lat": -5.4329,
+      "long": 120.2051
+    },
+    {
+      "key": "KABUPATEN ENREKANG",
+      "lat": -3.4591,
+      "long": 119.8815
+    },
+    {
+      "key": "KABUPATEN GOWA",
+      "lat": -5.3103,
+      "long": 119.7426
+    },
+    {
+      "key": "KABUPATEN JENEPONTO",
+      "lat": -5.5546,
+      "long": 119.6731
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN SELAYAR",
+      "lat": -6.287,
+      "long": 120.5049
+    },
+    {
+      "key": "KABUPATEN LUWU",
+      "lat": -3.3052,
+      "long": 120.2513
+    },
+    {
+      "key": "KABUPATEN LUWU TIMUR",
+      "lat": -2.5826,
+      "long": 121.171
+    },
+    {
+      "key": "KABUPATEN LUWU UTARA",
+      "lat": -2.269,
+      "long": 119.9741
+    },
+    {
+      "key": "KABUPATEN MAROS",
+      "lat": -5.0549,
+      "long": 119.6963
+    },
+    {
+      "key": "KABUPATEN PANGKAJENE DAN KEPULAUAN",
+      "lat": -4.805,
+      "long": 119.5572
+    },
+    {
+      "key": "KABUPATEN PINRANG",
+      "lat": -3.6483,
+      "long": 119.5572
+    },
+    {
+      "key": "KABUPATEN SIDENRENG RAPPANG",
+      "lat": -3.7739,
+      "long": 120.0203
+    },
+    {
+      "key": "KABUPATEN SINJAI",
+      "lat": -5.2172,
+      "long": 120.1127
+    },
+    {
+      "key": "KABUPATEN SOPPENG",
+      "lat": -4.3519,
+      "long": 119.9278
+    },
+    {
+      "key": "KABUPATEN TAKALAR",
+      "lat": -5.4162,
+      "long": 119.4876
+    },
+    {
+      "key": "KABUPATEN TANA TORAJA",
+      "lat": -3.0753,
+      "long": 119.7426
+    },
+    {
+      "key": "KABUPATEN TORAJA UTARA",
+      "lat": -2.8622,
+      "long": 119.8352
+    },
+    {
+      "key": "KABUPATEN WAJO",
+      "lat": -4.0222,
+      "long": 120.0665
+    },
+    {
+      "key": "KOTA MAKASSAR",
+      "lat": -5.1477,
+      "long": 119.4327
+    },
+    {
+      "key": "KOTA PALOPO",
+      "lat": -3.0016,
+      "long": 120.1985
+    },
+    {
+      "key": "KOTA PAREPARE",
+      "lat": -4.0096,
+      "long": 119.6291
+    },
+    {
+      "key": "KABUPATEN BOMBANA",
+      "lat": -4.6543,
+      "long": 121.9018
+    },
+    {
+      "key": "KABUPATEN BUTON",
+      "lat": -5.3096,
+      "long": 122.9888
+    },
+    {
+      "key": "KABUPATEN BUTON SELATAN",
+      "lat": -5.3096,
+      "long": 122.9888
+    },
+    {
+      "key": "KABUPATEN BUTON TENGAH",
+      "lat": -5.3891,
+      "long": 122.5599
+    },
+    {
+      "key": "KABUPATEN BUTON UTARA",
+      "lat": -4.7023,
+      "long": 123.0339
+    },
+    {
+      "key": "KABUPATEN KOLAKA",
+      "lat": -3.9947,
+      "long": 121.5827
+    },
+    {
+      "key": "KABUPATEN KOLAKA TIMUR",
+      "lat": -4.2279,
+      "long": 121.9018
+    },
+    {
+      "key": "KABUPATEN KOLAKA UTARA",
+      "lat": -3.1347,
+      "long": 121.171
+    },
+    {
+      "key": "KABUPATEN KONAWE",
+      "lat": -3.938,
+      "long": 122.0837
+    },
+    {
+      "key": "KABUPATEN KONAWE KEPULAUAN",
+      "lat": -4.1361,
+      "long": 123.1239
+    },
+    {
+      "key": "KABUPATEN KONAWE SELATAN",
+      "lat": -4.2028,
+      "long": 122.4467
+    },
+    {
+      "key": "KABUPATEN KONAWE UTARA",
+      "lat": -3.3803,
+      "long": 122.0837
+    },
+    {
+      "key": "KABUPATEN MUNA",
+      "lat": -4.9016,
+      "long": 122.6277
+    },
+    {
+      "key": "KABUPATEN MUNA BARAT",
+      "lat": -4.9016,
+      "long": 122.6277
+    },
+    {
+      "key": "KABUPATEN WAKATOBI",
+      "lat": -5.6504,
+      "long": 123.8902
+    },
+    {
+      "key": "KOTA BAU-BAU",
+      "lat": -5.5071,
+      "long": 122.5969
+    },
+    {
+      "key": "KOTA KENDARI",
+      "lat": -3.9985,
+      "long": 122.513
+    },
+    {
+      "key": "KABUPATEN BANGGAI",
+      "lat": -0.9562,
+      "long": 122.6277
+    },
+    {
+      "key": "KABUPATEN BANGGAI KEPULAUAN",
+      "lat": -0.9562,
+      "long": 122.6277
+    },
+    {
+      "key": "KABUPATEN BANGGAI LAUT",
+      "lat": -1.6735,
+      "long": 123.5504
+    },
+    {
+      "key": "KABUPATEN BUOL",
+      "lat": 0.9695,
+      "long": 121.3542
+    },
+    {
+      "key": "KABUPATEN DONGGALA",
+      "lat": -0.4233,
+      "long": 119.8352
+    },
+    {
+      "key": "KABUPATEN MOROWALI",
+      "lat": -2.6987,
+      "long": 121.9018
+    },
+    {
+      "key": "KABUPATEN MOROWALI UTARA",
+      "lat": -1.6312,
+      "long": 121.3542
+    },
+    {
+      "key": "KABUPATEN PARIGI MOUTONG",
+      "lat": 0.5818,
+      "long": 120.8039
+    },
+    {
+      "key": "KABUPATEN POSO",
+      "lat": -1.6469,
+      "long": 120.4358
+    },
+    {
+      "key": "KABUPATEN SIGI",
+      "lat": -1.386,
+      "long": 119.8815
+    },
+    {
+      "key": "KABUPATEN TOJO UNA-UNA",
+      "lat": -1.0988,
+      "long": 121.537
+    },
+    {
+      "key": "KABUPATEN TOLI-TOLI",
+      "lat": 0.8768,
+      "long": 120.758
+    },
+    {
+      "key": "KOTA PALU",
+      "lat": -0.9003,
+      "long": 119.878
+    },
+    {
+      "key": "KABUPATEN BOLAANG MONGONDOW",
+      "lat": 0.6871,
+      "long": 124.0641
+    },
+    {
+      "key": "KABUPATEN BOLAANG MONGONDOW SELATAN",
+      "lat": 0.4053,
+      "long": 123.8411
+    },
+    {
+      "key": "KABUPATEN BOLAANG MONGONDOW TIMUR",
+      "lat": 0.7153,
+      "long": 124.4642
+    },
+    {
+      "key": "KABUPATEN BOLAANG MONGONDOW UTARA",
+      "lat": 0.907,
+      "long": 123.2657
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN SANGIHE",
+      "lat": 3.6329,
+      "long": 125.5001
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN SIAU TAGULANDANG BIARO",
+      "lat": 2.346,
+      "long": 125.4124
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN TALAUD",
+      "lat": 4.3067,
+      "long": 126.8035
+    },
+    {
+      "key": "KABUPATEN MINAHASA",
+      "lat": 1.2169,
+      "long": 124.8183
+    },
+    {
+      "key": "KABUPATEN MINAHASA SELATAN",
+      "lat": 1.0947,
+      "long": 124.4642
+    },
+    {
+      "key": "KABUPATEN MINAHASA TENGGARA",
+      "lat": 1.0279,
+      "long": 124.7299
+    },
+    {
+      "key": "KABUPATEN MINAHASA UTARA",
+      "lat": 1.5328,
+      "long": 124.9948
+    },
+    {
+      "key": "KOTA BITUNG",
+      "lat": 1.4404,
+      "long": 125.1217
+    },
+    {
+      "key": "KOTA KOTAMOBAGU",
+      "lat": 0.7244,
+      "long": 124.3199
+    },
+    {
+      "key": "KOTA MANADO",
+      "lat": 1.4748,
+      "long": 124.8421
+    },
+    {
+      "key": "KOTA TOMOHON",
+      "lat": 1.3229,
+      "long": 124.8405
+    },
+    {
+      "key": "KABUPATEN MAJENE",
+      "lat": -3.0297,
+      "long": 118.9063
+    },
+    {
+      "key": "KABUPATEN MAMASA",
+      "lat": -2.9118,
+      "long": 119.325
+    },
+    {
+      "key": "KABUPATEN MAMUJU",
+      "lat": -2.492,
+      "long": 119.325
+    },
+    {
+      "key": "KABUPATEN MAMUJU TENGAH",
+      "lat": -1.9354,
+      "long": 119.5108
+    },
+    {
+      "key": "KABUPATEN MAMUJU UTARA",
+      "lat": -1.5265,
+      "long": 119.5108
+    },
+    {
+      "key": "KABUPATEN POLEWALI MANDAR",
+      "lat": -3.3419,
+      "long": 119.1391
+    },
+    {
+      "key": "KABUPATEN BURU",
+      "lat": -3.3307,
+      "long": 126.6957
+    },
+    {
+      "key": "KABUPATEN BURU SELATAN",
+      "lat": -3.7274,
+      "long": 126.6957
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN ARU",
+      "lat": -6.1947,
+      "long": 134.5502
+    },
+    {
+      "key": "KABUPATEN MALUKU BARAT DAYA",
+      "lat": -7.7852,
+      "long": 126.3498
+    },
+    {
+      "key": "KABUPATEN MALUKU TENGAH",
+      "lat": -3.0167,
+      "long": 129.4864
+    },
+    {
+      "key": "KABUPATEN MALUKU TENGGARA",
+      "lat": -5.7512,
+      "long": 132.7272
+    },
+    {
+      "key": "KABUPATEN MALUKU TENGGARA BARAT",
+      "lat": -7.5323,
+      "long": 131.3611
+    },
+    {
+      "key": "KABUPATEN SERAM BAGIAN BARAT",
+      "lat": -3.1272,
+      "long": 128.4008
+    },
+    {
+      "key": "KABUPATEN SERAM BAGIAN TIMUR",
+      "lat": -3.4233,
+      "long": 130.2271
+    },
+    {
+      "key": "KOTA AMBON",
+      "lat": -3.6554,
+      "long": 128.1908
+    },
+    {
+      "key": "KOTA TUAL",
+      "lat": -5.6266,
+      "long": 132.7521
+    },
+    {
+      "key": "KABUPATEN HALMAHERA BARAT",
+      "lat": 1.359,
+      "long": 127.5961
+    },
+    {
+      "key": "KABUPATEN HALMAHERA TENGAH",
+      "lat": 0.442,
+      "long": 128.3587
+    },
+    {
+      "key": "KABUPATEN HALMAHERA UTARA",
+      "lat": 1.5074,
+      "long": 127.8937
+    },
+    {
+      "key": "KABUPATEN HALMAHERA SELATAN",
+      "lat": -1.5109,
+      "long": 127.7238
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN SULA",
+      "lat": -1.8456,
+      "long": 125.3431
+    },
+    {
+      "key": "KABUPATEN HALMAHERA TIMUR",
+      "lat": 1.3121,
+      "long": 128.485
+    },
+    {
+      "key": "KABUPATEN PULAU MOROTAI",
+      "lat": 2.3657,
+      "long": 128.4008
+    },
+    {
+      "key": "KABUPATEN PULAU TALIABU",
+      "lat": -1.8268,
+      "long": 124.7741
+    },
+    {
+      "key": "KOTA TERNATE",
+      "lat": 0.771,
+      "long": 127.3695
+    },
+    {
+      "key": "KOTA TIDORE KEPULAUAN",
+      "lat": 0.674,
+      "long": 127.4041
+    },
+    {
+      "key": "KABUPATEN ASMAT",
+      "lat": -5.0574,
+      "long": 138.3988
+    },
+    {
+      "key": "KABUPATEN BIAK NUMFOR",
+      "lat": -1.0381,
+      "long": 135.9801
+    },
+    {
+      "key": "KABUPATEN BOVEN DIGOEL",
+      "lat": -5.74,
+      "long": 140.3482
+    },
+    {
+      "key": "KABUPATEN DEIYAI",
+      "lat": -4.0975,
+      "long": 136.4393
+    },
+    {
+      "key": "KABUPATEN DOGIYAI",
+      "lat": -4.0454,
+      "long": 135.6763
+    },
+    {
+      "key": "KABUPATEN INTAN JAYA",
+      "lat": -3.5076,
+      "long": 136.7478
+    },
+    {
+      "key": "KABUPATEN JAYAPURA",
+      "lat": -2.9879,
+      "long": 139.8547
+    },
+    {
+      "key": "KABUPATEN JAYAWIJAYA",
+      "lat": -4.0004,
+      "long": 138.7995
+    },
+    {
+      "key": "KABUPATEN KEEROM",
+      "lat": -3.345,
+      "long": 140.7624
+    },
+    {
+      "key": "KABUPATEN KEPULAUAN YAPEN",
+      "lat": -1.7469,
+      "long": 136.1709
+    },
+    {
+      "key": "KABUPATEN LANNY JAYA",
+      "lat": -3.971,
+      "long": 138.319
+    },
+    {
+      "key": "KABUPATEN MAMBERAMO RAYA",
+      "lat": -2.5331,
+      "long": 137.7638
+    },
+    {
+      "key": "KABUPATEN MAMBERAMO TENGAH",
+      "lat": -2.3746,
+      "long": 138.319
+    },
+    {
+      "key": "KABUPATEN MAPPI",
+      "lat": -6.7606,
+      "long": 139.6911
+    },
+    {
+      "key": "KABUPATEN MERAUKE",
+      "lat": -7.7838,
+      "long": 139.0413
+    },
+    {
+      "key": "KABUPATEN MIMIKA",
+      "lat": -4.4553,
+      "long": 137.1362
+    },
+    {
+      "key": "KABUPATEN NABIRE",
+      "lat": -3.5095,
+      "long": 135.7521
+    },
+    {
+      "key": "KABUPATEN NDUGA",
+      "lat": -4.4069,
+      "long": 138.2394
+    },
+    {
+      "key": "KABUPATEN PANIAI",
+      "lat": -3.7876,
+      "long": 136.3625
+    },
+    {
+      "key": "KABUPATEN PEGUNUNGAN BINTANG",
+      "lat": -4.559,
+      "long": 140.5136
+    },
+    {
+      "key": "KABUPATEN PUNCAK",
+      "lat": -3.8649,
+      "long": 137.6062
+    },
+    {
+      "key": "KABUPATEN PUNCAK JAYA",
+      "lat": -3.4468,
+      "long": 137.8427
+    },
+    {
+      "key": "KABUPATEN SARMI",
+      "lat": -2.4678,
+      "long": 139.2031
+    },
+    {
+      "key": "KABUPATEN SUPIORI",
+      "lat": -0.7295,
+      "long": 135.6385
+    },
+    {
+      "key": "KABUPATEN TOLIKARA",
+      "lat": -3.4811,
+      "long": 138.4787
+    },
+    {
+      "key": "KABUPATEN WAROPEN",
+      "lat": -1.7469,
+      "long": 136.1709
+    },
+    {
+      "key": "KABUPATEN YAHUKIMO",
+      "lat": -4.494,
+      "long": 139.528
+    },
+    {
+      "key": "KABUPATEN YALIMO",
+      "lat": -3.7853,
+      "long": 139.4466
+    },
+    {
+      "key": "KOTA JAYAPURA",
+      "lat": -2.5916,
+      "long": 140.669
+    },
+    {
+      "key": "KABUPATEN YAPEN WAROPEN",
+      "lat": -1.7469,
+      "long": 136.1709
+    },
+    {
+      "key": "KABUPATEN FAKFAK",
+      "lat": -3.0977,
+      "long": 133.0195
+    },
+    {
+      "key": "KABUPATEN KAIMANA",
+      "lat": -3.2884,
+      "long": 133.9437
+    },
+    {
+      "key": "KABUPATEN MANOKWARI",
+      "lat": -0.999,
+      "long": 133.0195
+    },
+    {
+      "key": "KABUPATEN MANOKWARI SELATAN",
+      "lat": -0.999,
+      "long": 133.0195
+    },
+    {
+      "key": "KABUPATEN MAYBRAT",
+      "lat": -1.2971,
+      "long": 132.3151
+    },
+    {
+      "key": "KABUPATEN PEGUNUNGAN ARFAK",
+      "lat": -1.1555,
+      "long": 133.7142
+    },
+    {
+      "key": "KABUPATEN RAJA AMPAT",
+      "lat": -1.0915,
+      "long": 130.8779
+    },
+    {
+      "key": "KABUPATEN SORONG",
+      "lat": -1.1223,
+      "long": 131.4883
+    },
+    {
+      "key": "KABUPATEN SORONG SELATAN",
+      "lat": -1.7658,
+      "long": 132.1573
+    },
+    {
+      "key": "KABUPATEN TAMBRAUW",
+      "lat": -0.7819,
+      "long": 132.3938
+    },
+    {
+      "key": "KABUPATEN TELUK BINTUNI",
+      "lat": -1.9057,
+      "long": 133.3295
+    },
+    {
+      "key": "KABUPATEN TELUK WONDAMA",
+      "lat": -2.8552,
+      "long": 134.3237
+    },
+    {
+      "key": "KOTA SORONG",
+      "lat": -0.8762,
+      "long": 131.2558
+    }
+  ]
+}

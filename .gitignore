@@ -1,0 +1,26 @@
+# node modules
+node_modules
+.idea/
+.env
+package-lock.json
+#nuxt
+.nuxt
+/dist
+#test-utils
+/coverage
+/test/json
+test-output.json
+/storybook-static
+.storybook/
+#custom-file
+/assets/init/_color.scss
+jest_html_reporters*
+jest-html-reporters*
+# Mac
+.DS_Store
+._*
+# White List Spot Constant
+/constants/white-list-spot.js
+#modular component
+/components/atoms
+/components/molecules

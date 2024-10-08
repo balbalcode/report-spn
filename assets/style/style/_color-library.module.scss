@@ -1,0 +1,78 @@
+
+@for $i from 10 through 100 {
+  @if $i % 10 == 0 {
+    $percentage: $i*1%;
+    .bg-primary-#{$i} {
+      background-color: mix(white, $primary, $percentage) !important;
+    }
+    .bg-primary-dark-#{$i} {
+      background-color: mix(black, $primary, $percentage) !important;
+    }
+    .text-primary-#{$i} {
+      color: mix(white, $primary, $percentage) !important;
+    }
+
+    .bg-secondary-#{$i} {
+      background-color: mix(white, $secondary, $percentage) !important;
+    }
+    .bg-secondary-dark-#{$i} {
+      background-color: mix(black, $secondary, $percentage) !important;
+    }
+    .text-secondary-#{$i} {
+      color: mix(white, $secondary, $percentage) !important;
+    }
+
+    .bg-info-#{$i} {
+      background-color: mix(white, $info, $percentage) !important;
+    }
+    .bg-info-dark-#{$i} {
+      background-color: mix(black, $info, $percentage) !important;
+    }
+    .text-info-#{$i} {
+      color: mix(white, $info, $percentage) !important;
+    }
+
+    .bg-success-#{$i} {
+      background-color: mix(white, $success, $percentage) !important;
+    }
+    .bg-success-dark-#{$i} {
+      background-color: mix(black, $success, $percentage) !important;
+    }
+    .text-success-#{$i} {
+      color: mix(white, $success, $percentage) !important;
+    }
+
+
+    .bg-danger-#{$i} {
+      background-color: mix(white, $danger, $percentage) !important;
+    }
+    .bg-danger-dark-#{$i} {
+      background-color: mix(black, $danger, $percentage) !important;
+    }
+    .text-danger-#{$i} {
+      color: mix(white, $danger, $percentage) !important;
+    }
+
+    .bg-gray-#{$i} {
+      background-color: mix(white, $gray-500, $percentage) !important;
+    }
+    .bg-gray-dark-#{$i} {
+      background-color: mix(black, $gray-500, $percentage) !important;
+    }
+    .text-gray-#{$i} {
+      color: mix(white, $gray-500, $percentage) !important;
+    }
+  }
+}
+
+.bg-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    opacity: 0.7;
+    background-color: $black;
+}

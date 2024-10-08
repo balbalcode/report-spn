@@ -1,0 +1,24 @@
+const payloadGet = {
+  filter: [
+    { key: "month", value: "2023-01" },
+    { key: "spot_id", value: "61c2....-e380-....-b0a0-....840f...." },
+    { key: "administration", value: "CHANGE_PERIOD" },
+    { key: "type", value: "card" }
+  ]
+}
+
+const dataGetAdministrationReport = {
+  "rows": [
+    { "created_at": "2023-01-26 10:55:10", "membership_id": "148f....-f496-....-aac3-....f937....", "mgmt_user_detail": { "email": "user00@botmail.co.id", "name": "Kopral Haikal" }, "previous_data": { "end_date": "1676246400000" }, "product_detail": { "name": "Membership Motor", "vehicle_detail": { "alias": "MT", "code": "MT1", "description": "", "id": "....818d-....-4c9a-....-fd44....1a51", "name": "Motor", "spot_detail": { "id": "61c2....-e380-....-b0a0-....840f....", "name": "Archies Sudirman", "price_type": "LIMITED_PROGRESSIVE", "type": "MANLESS" }, "spot_id": "61c2....-e380-....-b0a0-....840f....", "status": true } }, "updated_data": { "end_date": 1676160000000 } },
+    { "created_at": "2023-01-26 10:31:57", "membership_id": "148f....-f496-....-aac3-....f937....", "mgmt_user_detail": { "email": "user00@botmail.co.id", "name": "Kopral Haikal" }, "previous_data": { "end_date": "1676393940000" }, "product_detail": { "name": "Membership Motor", "vehicle_detail": { "alias": "MT", "code": "MT1", "description": "", "id": "....818d-....-4c9a-....-fd44....1a51", "name": "Motor", "spot_detail": { "id": "61c2....-e380-....-b0a0-....840f....", "name": "Archies Sudirman", "price_type": "LIMITED_PROGRESSIVE", "type": "MANLESS" }, "spot_id": "61c2....-e380-....-b0a0-....840f....", "status": true } }, "updated_data": { "end_date": 1676246400000 } },
+    { "created_at": "2023-01-26 07:22:48", "membership_id": "1cf1....-243d-....-8258-....4f38....", "mgmt_user_detail": { "email": "user01@botmail.co.id", "name": "Letnan Pratama" }, "previous_data": { "end_date": "1703721600000" }, "product_detail": { "name": "Produk Setahun", "vehicle_detail": { "alias": "MT", "code": "MT1", "description": "", "id": "....818d-....-4c9a-....-fd44....1a51", "name": "Motor", "spot_detail": { "id": "61c2....-e380-....-b0a0-....840f....", "name": "Archies Sudirman", "price_type": "LIMITED_PROGRESSIVE", "type": "MANLESS" }, "spot_id": "61c2....-e380-....-b0a0-....840f....", "status": true } }, "updated_data": { "end_date": 1703462400000 } },
+    { "created_at": "2023-01-26 06:41:03", "membership_id": "0a30....-19a0-....-b170-....9f5f....", "mgmt_user_detail": { "email": "user00@botmail.co.id", "name": "Kopral Haikal" }, "previous_data": { "end_date": "1676825940000" }, "product_detail": { "name": "Membership Mobil", "vehicle_detail": { "alias": "MB", "code": "MB1", "description": "", "id": "....ad7a-....-4c61-....-160d....4f7b", "name": "Mobil", "spot_detail": { "id": "61c2....-e380-....-b0a0-....840f....", "name": "Archies Sudirman", "price_type": "LIMITED_PROGRESSIVE", "type": "MANLESS" }, "spot_id": "61c2....-e380-....-b0a0-....840f....", "status": true } }, "updated_data": { "end_date": 1676678400000 } },
+    { "created_at": "2023-01-25 04:37:03", "membership_id": "1cf1....-243d-....-8258-....4f38....", "mgmt_user_detail": { "email": "user00@botmail.co.id", "name": "Kopral Haikal" }, "previous_data": { "end_date": "1703808000000" }, "product_detail": { "name": "Produk Setahun", "vehicle_detail": { "alias": "MT", "code": "MT1", "description": "", "id": "....818d-....-4c9a-....-fd44....1a51", "name": "Motor", "spot_detail": { "id": "61c2....-e380-....-b0a0-....840f....", "name": "Archies Sudirman", "price_type": "LIMITED_PROGRESSIVE", "type": "MANLESS" }, "spot_id": "61c2....-e380-....-b0a0-....840f....", "status": true } }, "updated_data": { "end_date": 1703721600000 } }
+  ]
+}
+
+const reportContent = [{ "date": "26 Jan 2023 17:55:10", "type": "Ganti Periode", "previous_end_date": "13-02-2023", "updated_end_date": "12-02-2023", "user": "Kopral Haikal" }, { "date": "26 Jan 2023 17:31:57", "type": "Ganti Periode", "previous_end_date": "14-02-2023", "updated_end_date": "13-02-2023", "user": "Kopral Haikal" }, { "date": "26 Jan 2023 14:22:48", "type": "Ganti Periode", "previous_end_date": "28-12-2023", "updated_end_date": "25-12-2023", "user": "Letnan Pratama" }, { "date": "26 Jan 2023 13:41:03", "type": "Ganti Periode", "previous_end_date": "19-02-2023", "updated_end_date": "18-02-2023", "user": "Kopral Haikal" }, { "date": "25 Jan 2023 11:37:03", "type": "Ganti Periode", "previous_end_date": "29-12-2023", "updated_end_date": "28-12-2023", "user": "Kopral Haikal" }]
+
+const reportHeader = { "Tanggal": "date", "Jenis Administrasi": "type", "Tanggal Berakhir (Lama)": "previous_end_date", "Tanggal Berakhir (Baru)": "updated_end_date", "Petugas": "user" }
+
+export { payloadGet, dataGetAdministrationReport, reportContent, reportHeader }

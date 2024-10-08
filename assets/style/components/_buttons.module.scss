@@ -1,0 +1,103 @@
+/*
+PLEASE ADD YOUR OWN CLASS BASED ON TABLE OF CONTENT
+IF YOU WANT TO CREATE NEW SEGMENT, CREATE TABLE OF CONTENTS FIRST
+
+best, balbalcode (github)
+
+table of contents
+ - secondary and dark button
+ - focus helper
+ - outline button
+ - grey button
+
+ */
+
+
+button,
+a {
+  outline: none !important;
+}
+
+
+// secondary and dark button
+.btn-dark,
+.btn-secondary {
+  color: $gray-200 !important;
+}
+
+// focus btn
+.btn:focus,
+.btn.focus {
+  box-shadow: none !important;
+}
+
+// outline button
+.btn-outline-light {
+  color: $gray-900;
+}
+
+.btn-outline-primary {
+  color: $primary !important;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:visited, .btn-outline-primary:active{
+  background: mix($primary, $white, 10%) !important;
+}
+
+.btn-outline-secondary:hover, .btn-outline-secondary:visited, .btn-outline-secondary:active{
+  background: mix($secondary, $white, 10%) !important;
+  color: $secondary !important;
+}
+
+.btn-outline-info:hover, .btn-outline-info:visited, .btn-outline-info:active{
+  background: mix($info, $white, 10%) !important;
+  color: $info !important;
+}
+
+.btn-outline-warning:hover, .btn-outline-warning:visited, .btn-outline-warning:active{
+  background: mix($warning, $white, 10%) !important;
+  color: $warning !important;
+}
+
+.btn-outline-danger:hover, .btn-outline-danger:visited, .btn-outline-danger:active{
+  background: mix($danger, $white, 10%) !important;
+  color: $danger !important;
+}
+
+
+
+// grey button
+.btn-grey {
+  background-color: $gray-600 !important;
+  border-color: $gray-600 !important;
+  color: $white;
+
+  &:hover {
+    background: $gray-600 !important;
+    color: $white;
+  }
+
+  &:disabled {
+    color: white !important;
+    background: $gray-500 !important;
+    border-color: $gray-500 !important;
+  }
+}
+
+.btn-outline-grey {
+  background-color: $white;
+  border: 1px solid $gray-600;
+  color: $gray-600 !important;
+
+  &:hover {
+    color: $gray-600;
+    border: 1px solid $gray-600;
+    background: mix(white, $gray-600, 90%) !important;
+  }
+
+  &:disabled {
+    color: white !important;
+    background: $gray-500 !important;
+    border-color: $gray-500 !important;
+  }
+}
